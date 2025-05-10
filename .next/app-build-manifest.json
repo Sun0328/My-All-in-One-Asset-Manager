@@ -10,41 +10,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/page.js"
-    ],
-    "/intro/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/intro/page.js"
-    ],
-    "/assets/bank-accounts/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/assets/bank-accounts/page.js"
-    ],
-    "/assets/stocks/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/assets/stocks/page.js"
-    ],
-    "/assets/crypto/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/assets/crypto/page.js"
-    ],
-    "/assets/fixed-deposits/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/assets/fixed-deposits/page.js"
-    ],
-    "/assets/kiwi-saver/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/assets/kiwi-saver/page.js"
-    ],
-    "/widgets/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/widgets/page.js"
     ]
   }
 }
