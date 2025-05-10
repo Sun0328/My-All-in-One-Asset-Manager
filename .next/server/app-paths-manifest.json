@@ -1,0 +1,10 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/assets/bank-accounts/page": "app/assets/bank-accounts/page.js",
+  "/widgets/page": "app/widgets/page.js",
+  "/assets/stocks/page": "app/assets/stocks/page.js",
+  "/assets/crypto/page": "app/assets/crypto/page.js",
+  "/assets/fixed-deposits/page": "app/assets/fixed-deposits/page.js",
+  "/intro/page": "app/intro/page.js",
+  "/assets/kiwi-saver/page": "app/assets/kiwi-saver/page.js"
+}
